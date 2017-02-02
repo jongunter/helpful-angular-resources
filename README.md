@@ -1,5 +1,5 @@
-# helpful-angular-resources
-A list of helpful resources when working on an Angular (2) application
+# Jon's List of Helpful Angular Resources
+A list of helpful resources when working on an Angular (v2+) application
 
 ## General Applcation Achictecture
 - Containers vs Components (smart/dumb components): https://toddmotto.com/stateful-stateless-components
