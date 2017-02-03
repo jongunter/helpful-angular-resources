@@ -20,3 +20,6 @@ A list of helpful resources when working on an Angular (v2+) application
 - Hot and Cold Observables: https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html
 - http://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
 - http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/
+
+## Misc
+- CSS Guidelines (not angular specific, but still helpful): http://cssguidelin.es/
