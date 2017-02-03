@@ -18,6 +18,7 @@ A list of helpful resources when working on an Angular (v2+) application
 - Another Beginners Guide https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877#.obdvsvjn8
 - And another beginners Guide: http://reactivex.io/learnrx/
 - Hot and Cold Observables: https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html
+- Immutable Patterns to follow in your reducers: http://redux.js.org/docs/recipes/reducers/ImmutableUpdatePatterns.html
 - http://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
 - http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/
 
