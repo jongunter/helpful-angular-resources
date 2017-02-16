@@ -4,6 +4,7 @@ A list of helpful resources when working on an Angular (v2+) application
 ## General Applcation Achictecture
 - Containers vs Components (smart/dumb components): https://toddmotto.com/stateful-stateless-components
 - Large SPA Architecture: http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
+- Design patterns: https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
 
 ## Angular-Specific Features
 - Dependency Injection: https://toddmotto.com/angular-dependency-injection
